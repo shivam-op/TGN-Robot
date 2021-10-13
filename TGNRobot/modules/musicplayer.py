@@ -1,4 +1,4 @@
-__mod_name__ = "Skyler Player"
+__mod_name__ = "Music Player"
 
 __help__ = """
 =>> *Song Playing* 🎧 
@@ -11,5 +11,6 @@ __help__ = """
 ❍ /end - stop music play
 
 =>>   *Use*
-1) Add @Skylerx_BOT in your group to admin with all permission
-2) Add Assistant I'd to your group @Skyler_player"""
+
+❍ Add @Skylerx_BOT in your group to admin with all permission
+❍ Add Assistant I'd to your group @Skyler_player"""
