@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 
 Hey there! My name is *Skyler* ✨.I can manage your group with lots of useful features, feel free to add me to your group. hit /help
- [❤](https://telegra.ph/file/688e6a12ed0d31e243298.jpg)
+ [❤](https://telegra.ph/file/244e02d20161cf9dabfe3.png)
 """
 
 buttons = [
@@ -104,9 +104,9 @@ buttons = [
 
 HELP_STRINGS = """
 `you can choose any button from below..`
-You can also ask in support [❤️](https://telegra.ph/file/688e6a12ed0d31e243298.jpg)"""
+You can also ask in support [❤️](https://telegra.ph/file/244e02d20161cf9dabfe3.png)"""
 
-START_IMG = "https://telegra.ph/file/688e6a12ed0d31e243298.jpg"
+START_IMG = "https://telegra.ph/file/244e02d20161cf9dabfe3.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Lucifer](t.me/detctective_de) \
