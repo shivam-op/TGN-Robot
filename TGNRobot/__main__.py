@@ -75,29 +75,29 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 
-`Hey there! My name is Skyler ✨.I can manage your group with lots of useful features, feel free to add me to your group. hit` /help
+Hey there! My name is *Skyler* ✨.I can manage your group with lots of useful features, feel free to add me to your group. hit /help
  [❤](https://telegra.ph/file/688e6a12ed0d31e243298.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Add to your group", url="t.me/skylerx_bot?startgroup=true"),
+            text="❓ Help and commands", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Bot list⚒️", url=f"https://t.me/electrobot_support"),
+        InlineKeyboardButton(text="Chatting zone 🎉", url=f"https://t.me/friends_forever_143"),
         InlineKeyboardButton(
-            text="Support ⚡", url=f"https://t.me/electrobot_support"
+            text="Developer 🙋‍♂ ", url=f"https://t.me/SHIVAM9412"
         ),
     ],
     [
-        InlineKeyboardButton(text="Updates ☑️", url=f"https://t.me/electro_Updates"),
+        InlineKeyboardButton(text="Updates ❗️ ", url=f"https://t.me/electro_Updates"),
         InlineKeyboardButton(
-            text="electro", url=f"https://t.me/electro_updates"
+            text="Support 💡", url=f"https://t.me/electrobot_support"
         ),
     ],
     [
-        InlineKeyboardButton(text="Help and commands", callback_data="help_back"),
+        InlineKeyboardButton(text="➕ Add to your group ➕", url="t.me/skylerx_bot?startgroup=true"),
     ],
 ]
 
